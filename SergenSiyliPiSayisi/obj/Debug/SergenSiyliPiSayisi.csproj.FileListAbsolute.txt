@@ -1,0 +1,11 @@
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\SergenSiyliPiSayisi.exe.config
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\SergenSiyliPiSayisi.exe
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\SergenSiyliPiSayisi.pdb
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\MathNet.Numerics.dll
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\MathNet.Numerics.xml
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\obj\Debug\SergenSiyliPiSayisi.exe
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\obj\Debug\SergenSiyliPiSayisi.pdb
+C:\Users\SERGEN\Documents\Visual Studio 2015\Projects\SergenSiyliPiSayisi\SergenSiyliPiSayisi\obj\Debug\SergenSiyliPiSayisi.csprojResolveAssemblyReference.cache
+C:\Users\SERGEN\Desktop\SergenSiyliPiSayisi\SergenSiyliPiSayisi\bin\Debug\SergenSiyliPiSayisi.exe.config
+C:\Users\SERGEN\Desktop\SergenSiyliPiSayisi\SergenSiyliPiSayisi\obj\Debug\SergenSiyliPiSayisi.exe
+C:\Users\SERGEN\Desktop\SergenSiyliPiSayisi\SergenSiyliPiSayisi\obj\Debug\SergenSiyliPiSayisi.pdb
